@@ -1,4 +1,4 @@
-# Salary Prediction - Heroku Cloud App Deployment!
+# Salary Prediction - Heroku Cloud App Deployment! (Only for Demonstration of Deploement purpose)
 Checkout Salary Prediction Model Loaded into the Heroku Cloud!
 
 https://sal-pred-api1.herokuapp.com/
